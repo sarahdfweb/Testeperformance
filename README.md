@@ -1,8 +1,6 @@
 
 # Teste de Performance - CARGA
 
-  ![Performance Testing](performance_testing.jpg)
-
   Neste repositório, você encontrará informações e recursos relacionados ao teste de performance com foco em carga utilizando a ferramenta JMeter.
 
   ## Sobre
@@ -27,5 +25,7 @@
   - [Documentação do JMeter](https://jmeter.apache.org/documentation.html): Para mais informações sobre a ferramenta JMeter.
   - [Excel](https://support.microsoft.com/pt-br/excel): Para criação e manipulação de massas de dados para teste.
 
+## Vídeo 
+  - 🚧 em contrução ...
 
 
