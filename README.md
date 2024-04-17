@@ -26,6 +26,10 @@
   - [Excel](https://support.microsoft.com/pt-br/excel): Para criação e manipulação de massas de dados para teste.
 
 ## Vídeo 
-  - 🚧 em contrução ...
+
+https://github.com/sarahdfweb/Testeperformance/assets/87348787/caefa8b6-2bbd-4e5d-80ac-2c025ec5dc30
+
+
+
 
 
